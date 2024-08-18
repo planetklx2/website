@@ -1,5 +1,5 @@
 ---
-title: Goldydocs
+title: PlanetKLX2
 ---
 
 {{< blocks/cover title="Uncork your KLX250/KLX300" image_anchor="top" height="full" >}}
