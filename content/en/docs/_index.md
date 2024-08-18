@@ -1,28 +1,25 @@
 ---
-title: Documentation
-linkTitle: Docs
+title: The Guide
+linkTitle: Guide
 menu: {main: {weight: 20}}
 ---
 
-{{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
-{{% /pageinfo %}}
+This guide covers modifications to improve the performance,
 
-This section is where the user documentation for your project lives - all the
-information your users need to understand and successfully use your project.
+ especially off-road performance, of the modern fuel-injected (EFI) Kawasaki KLX250 (2008+) and KLX300 (2021+). While the focus is on dual-sport versions, most of the advice can be applied to SuperMoto (D-Tracker) versions.
 
-For large documentation sets we recommend adding content under the headings in
-this section, though if some or all of them don’t apply to your project feel
-free to remove them or add your own. You can see an example of a smaller Docsy
-documentation site in the [Docsy User Guide](https://docsy.dev/docs/), which
-lives in the [Docsy theme
-repo](https://github.com/google/docsy/tree/master/userguide) if you'd like to
-copy its docs section.
+One goal of this guide is to show you how to improve your bike with minimal or even no cost. Want to:
 
-Other content such as marketing material, case studies, and community updates
-should live in the [About](/about/) and [Community](/community/) pages.
+- Set up suspension for your weight for under $60? (front and rear!)
+- Build a reliable 30+ hp machine on a budget?
 
-Find out how to use the Docsy theme in the [Docsy User
-Guide](https://docsy.dev/docs/). You can learn more about how to organize your
-documentation (and how we organized this site) in [Organizing Your
-Content](https://docsy.dev/docs/best-practices/organizing-content/).
+Please read on and contribute!
+
+{{< alert title="Note:" >}}
+You might be surprised, but the EFI KLX250 and KLX300 are nearly identical bikes. The only differences are engine displacement (249cc for the KLX250, 292cc for the KLX300) and ECU settings.
+{{< /alert >}}
+
+{{< alert title="Note:" >}}
+The trail version,
+KLX300R, is already significantly more capable off-road: it’s lighter, has more suspension travel, and is more powerful than its street-legal counterparts. The engine, fuel injection system, and suspension differ from the street-legal models. The KLX300R is currently outside the scope of this guide.
+{{< /alert >}}
