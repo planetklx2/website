@@ -104,7 +104,7 @@ We recommend our own **PlanetKLX2 piggyback controller**, which features:
 ![](https://s3.amazonaws.com/cdn.planetklx2/images/planetklx2-piggyback.jpeg)
 
 
-With correct air-fuel mixture(controlled with piggyback), free flowing exhaust and open airbox (removed airbox cover and snorkel) KLX300 can produce about **28.5hp @ 7500rpm** (pink line on the chart below).
+With correct air-fuel mixture(controlled with piggyback), removed subthrottle plate, free flowing full exhaust (with header) and open airbox (removed airbox cover and snorkel) KLX300 can produce about **28.5hp @ 7500rpm** (pink line on the chart below).
 
 ![](https://s3.amazonaws.com/cdn.planetklx2/images/klx250-300-snorkel-vs-lidless.jpeg)
 

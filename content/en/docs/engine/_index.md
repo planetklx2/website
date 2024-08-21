@@ -19,4 +19,6 @@ As mentioned earlier, the motorcycles now need to comply with stricter emission 
 
 By addressing these limitations, a KLX300 can achieve 30+ horsepower at the wheel (or 33+ horsepower at the crank). Reading the "engine" section will take less than 10 minutes and provide a good understanding of these restrictions and how to potentially overcome them.
 
-**The "Engine" section is based on personal experience and almost 1 year of R&D with dyno. You can see details in [this thread at Kawasakiforums](https://www.kawasakiforums.com/forum/klx-250s-71/klx250-efi-mods-their-impact-dyno-49406/)**
+{{< alert title="Note:" >}}
+The "Engine" section is based on personal experience and almost 1 year of R&D with dyno. You can see details in [this thread at Kawasakiforums](https://www.kawasakiforums.com/forum/klx-250s-71/klx250-efi-mods-their-impact-dyno-49406/)
+{{< /alert >}}
