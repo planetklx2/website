@@ -97,11 +97,9 @@ We recommend our own **PlanetKLX2 piggyback controller**, which features:
 - Easy operation via Bluetooth mobile app.
 - Rugged waterproof design.
 - Plug-and-play installation.
-- Low cost - $140 shipped worldwide
+- Low cost - $140 shipped worldwide. **If you need one - please see [Shop](../shop#fuel-controller) section.**
 
-**If you need one - please see [Shop](../shop#fuel-controller) section.**
-
-![](https://s3.amazonaws.com/cdn.planetklx2/images/planetklx2-piggyback.jpeg)
+<iframe width="840" height="472" src="https://www.youtube.com/embed/6S4ZwMfnvck?si=loC3DFEnOL_YE6gM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 With correct air-fuel mixture(controlled with piggyback), removed subthrottle plate, free flowing full exhaust (with header) and open airbox (removed airbox cover and snorkel) KLX300 can produce about **28.5hp @ 7500rpm** (pink line on the chart below).
