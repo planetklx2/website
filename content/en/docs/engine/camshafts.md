@@ -30,7 +30,11 @@ All KLX250, KLX300 (including 2021+ models) have same camshafts. This is cross-t
 ## Ninja Z250SL / KLX300R (2020+)
 
 Updated Kawasaki OEM camchafts with better top-end power could be found in Ninja Z250SL and KLX300R 2020+
+- intake `12044-0786` / `12044-1505`
+- exhaust `12044-0787` / `12044-1506`
+- 32T timing gear/sprocket - `12046-0576` (identical for intake and exhaust and different from klx250/klx300 - see video!)
 
 ## Keng Engine
 
-[Keng Engine](https://www.facebook.com/KengEngine/) produce own camshafts for his engine builds. Likely they are re-grinded KLX250 camshafts.
+[Keng Engine](https://www.facebook.com/KengEngine/) produce own camshafts for his engine builds.
+![Keng's camshafts](https://advrider.com/f/attachments/received_1152981212522627-jpeg.6280761/)
