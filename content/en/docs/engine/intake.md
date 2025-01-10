@@ -68,3 +68,6 @@ Many riders believe that replacing the snorkel with a KDX unit provides sufficie
 
 As you can see **open airbox provide +2hp and +2-3Nm of torque across all RPM range**! The disadvantage of open airbox is that it significantly increase intake noise ("roaring" sound).
 
+### Ultimate intake and snorkel review
+
+<iframe width="840" height="472" src="https://www.youtube.com/embed/kDZMAuh5P2Y?si=lbezC02p5gY791UF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
