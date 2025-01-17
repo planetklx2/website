@@ -4,7 +4,7 @@ description:
 weight: 11
 ---
 
-- [Old PlanetKLX](content/en/docs/shop.md) - lot's of tips for old (carburated) KLX250/KLX300. Many/most applicable to the EFI models.
+- [Old PlanetKLX](https://web.archive.org/web/20170518174833/http://planetklx.org/) - lot's of tips for old (carburated) KLX250/KLX300. Many/most applicable to the EFI models.
 - [KawasakiForums](https://www.kawasakiforums.com/forum/klx-250s-71/) - discussions with all technical details, probabbly the most useful resource (hard to search/navigate though)
 - [AdventureKLX250](https://adventureklx250.com/) - lot's of tips for making perfect adventure bike from KLX250. [Series](https://www.dailymotion.com/playlist/x944ja) where they weight every bolt from KLX250 is a true gem.
 - [KLX 402](https://advrider.com/f/threads/the-complete-klx250-klx300-long-term-review-thread.107591/page-1058#post-51342931) - interesting thread about KLX402 build
