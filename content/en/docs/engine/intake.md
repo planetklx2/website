@@ -68,6 +68,26 @@ Many riders believe that replacing the snorkel with a KDX unit provides sufficie
 
 As you can see **open airbox provide +2hp and +2-3Nm of torque across all RPM range**! The disadvantage of open airbox is that it significantly increase intake noise ("roaring" sound).
 
-### Ultimate intake and snorkel review
+### Planetklx2 custom 3D-printed snorkel
+
+We've developed and tested a custom airbox lid with the integrated snorkel. It **available for purchase on eBay [here](https://www.ebay.com/itm/335809113951?mkcid=16&mkevt=1&mkrid=711-127632-2357-0&ssspo=8avnx8xztoo&sssrc=2524149&ssuid=8avnx8xztoo&widget_ver=artemis&media=COPY)**.
+
+![](https://s3.us-east-1.amazonaws.com/cdn.planetklx2/images/planetklx2-snorkel-COLLAGE.jpg)
+
+
+The lid provides even better airflow than an open airbox (see detailes in the [review below](./intake/#ultimate-intake-and-snorkel-review-part-2)):
+
+- **Adds 2.5hp and 2-3Nm of torque over standard snorkel**
+  ![](https://s3.us-east-1.amazonaws.com/cdn.planetklx2/images/custom-vs-standard.jpg)
+
+- **Adds 2hp and 2-2.5Nm of torque over KDX snorkel**
+  ![](https://s3.us-east-1.amazonaws.com/cdn.planetklx2/images/custom-vs-kdx.jpeg)
+
+
+### Ultimate intake and snorkel review part 1
 
 <iframe width="840" height="472" src="https://www.youtube.com/embed/kDZMAuh5P2Y?si=lbezC02p5gY791UF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Ultimate intake and snorkel review part 2
+
+<iframe width="840" height="472" src="https://www.youtube.com/embed/1kPrH7qvQnI?si=mVV0R-5Zv7d8QM9e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
