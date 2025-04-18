@@ -70,7 +70,7 @@ As you can see **open airbox provide +2hp and +2-3Nm of torque across all RPM ra
 
 ### Planetklx2 custom 3D-printed snorkel
 
-We've developed and tested a custom airbox lid with the integrated snorkel. It **available for purchase on eBay [here](https://www.ebay.com/itm/335809113951?mkcid=16&mkevt=1&mkrid=711-127632-2357-0&ssspo=8avnx8xztoo&sssrc=2524149&ssuid=8avnx8xztoo&widget_ver=artemis&media=COPY)**.
+We've developed and tested a custom airbox lid with the integrated snorkel which is **[available for purchase now](../shop/#high-performance-snorkel)**.
 
 ![](https://s3.us-east-1.amazonaws.com/cdn.planetklx2/images/planetklx2-snorkel-COLLAGE.jpg)
 
