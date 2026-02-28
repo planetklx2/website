@@ -1,3 +1,10 @@
+# Redirect all traffic to new domain (permanent 301 redirect)
+[[redirects]]
+from = "/*"
+to = "https://planetklx2.com"
+status = 301
+force = true
+
 # Hugo build configuration for Netlify
 # (https://gohugo.io/hosting-and-deployment/hosting-on-netlify/#configure-hugo-version-in-netlify)
 
